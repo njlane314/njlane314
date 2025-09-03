@@ -1,16 +1,30 @@
-## Hi there 👋
+# njlane314
 
-<!--
-**njlane314/njlane314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selected projects for neutrino analysis, reconstruction, and ML. Quick links:
 
-Here are some ideas to get you started:
+[searchingforstrangeness](https://github.com/njlane314/searchingforstrangeness) ·
+[rarexsec-analysis](https://github.com/njlane314/rarexsec-analysis) ·
+[scanningforstrangeness](https://github.com/njlane314/scanningforstrangeness) ·
+[a-thesis](https://github.com/njlane314/a-thesis) ·
+[generator-analysis](https://github.com/njlane314/generator-analysis) ·
+[oscillation-analysis](https://github.com/njlane314/oscillation-analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured repositories
+
+- **searchingforstrangeness** — Tuple/ntuple creation and initial selection utilities for strangeness-focused studies.  
+  https://github.com/njlane314/searchingforstrangeness
+
+- **rarexsec-analysis** — Analysis code for rare interaction cross-section measurements.  
+  https://github.com/njlane314/rarexsec-analysis
+
+- **scanningforstrangeness** — Data pipeline and training code to turn feature vectors into images and train CNNs.  
+  https://github.com/njlane314/scanningforstrangeness
+
+- **a-thesis** — Writing and materials for the thesis.  
+  https://github.com/njlane314/a-thesis
+
+- **generator-analysis** — MC generator studies, comparisons, and validation workflows.  
+  https://github.com/njlane314/generator-analysis
+
+- **oscillation-analysis** — Utilities and studies for neutrino oscillation analyses.  
+  https://github.com/njlane314/oscillation-analysis
