@@ -7,7 +7,8 @@ Selected projects for neutrino analysis, reconstruction, and ML. Quick links:
 [scanningforstrangeness](https://github.com/njlane314/scanningforstrangeness) ·
 [a-thesis](https://github.com/njlane314/a-thesis) ·
 [generator-analysis](https://github.com/njlane314/generator-analysis) ·
-[oscillation-analysis](https://github.com/njlane314/oscillation-analysis)
+[oscillation-analysis](https://github.com/njlane314/oscillation-analysis) ·
+[worklow-diagrams](https://github.com/njlane314/workflow-diagrams.git)
 
 ## Featured repositories
 
